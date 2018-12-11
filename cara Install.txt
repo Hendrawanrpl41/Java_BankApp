@@ -1,3 +1,4 @@
 1. import terlebih dahulu database nya (db_bankapp.sql)
 2. open project menggunakan eclipe
 3. langsung jalankan di package Persentation pada file MainApp.java
+4. tambakan library mysql jdbc untuk koneksinya
